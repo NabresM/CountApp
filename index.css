@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Pictures/train.jpg");
+    background-image: url("https://images.unsplash.com/photo-1547049796-d5db10692892?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
