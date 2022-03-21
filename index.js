@@ -1,8 +1,11 @@
-let myName = "Rares"
-let myAge = 11
+//document.getElementById("count").innerText = 0;
 
-console.log(myName + " and my age is " + myAge + "!")
 
-function myFunction() {
-    let name
-}
+//let count = 5;
+
+//count + 1
+
+//count += 1;
+
+//console.log(count);
+
